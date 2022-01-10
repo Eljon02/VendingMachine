@@ -345,3 +345,6 @@ public class VendingMachine
 ------
 
 #### Testimet
+
+![alt text](https://i.ibb.co/qRtMchk/Testimi.gif)
+> *Testime. Kujdes imazhi është gif dhe përsëritet! Fundi i testimit pasi ipen ndryshoret (5, -5)*
