@@ -25,7 +25,7 @@ public class Machine
   /** insertMoney shton para në llogarinë e përdoruesit.
     * @param amount - shuma e parave
     * @return true nëse funksioni ishte i suksesshëm */
-  public boolean deposit(int amount)
+  public boolean insertMoney(int amount)
   { boolean result = false;
     if ( amount >= 0 )
          { balance = balance + amount;

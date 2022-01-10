@@ -22,7 +22,7 @@ public class Controller
           {System.exit(0);}   // ndalon programin
     else  { if ( command == 'D' )  // depoziton një shumë parash
                { int amount = reader.readAmount();
-                 boolean ok = machine.deposit(amount);
+                 boolean ok = machine.insertMoney(amount);
                  if ( ok )
                       { writer.showAction("Depozitim:", amount); }
                  else { writer.showError("Gabim në depozitim:", amount); }
