@@ -339,6 +339,9 @@ public class VendingMachine
 }
 ```
 
+![alt text](https://i.ibb.co/nDVhb9y/Arkitektura-MVCvm.jpg)
+> *Arkitektura MVC e VendingMachine, e paraqitur grafikisht*
+
 ------
 
 #### Testimet
